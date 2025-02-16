@@ -31,4 +31,4 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/avinix24/ASEC.git
    cd ASEC
-   sudo python asec.py
+   sudo python3 asec.py
